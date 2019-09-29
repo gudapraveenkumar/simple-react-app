@@ -1,0 +1,10 @@
+.App {
+  min-height: calc(70px-100vh);
+  display: flex;
+  flex-direction: column;
+}
+
+.post-thumbnail{
+  object-fit: cover;
+  height: 200px;
+}
